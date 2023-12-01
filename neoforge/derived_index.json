@@ -36,7 +36,9 @@
                 "1.20.1-47.1.76",
                 "1.20.1-47.1.77",
                 "1.20.1-47.1.78",
-                "1.20.1-47.1.79"
+                "1.20.1-47.1.79",
+                "1.20.1-47.1.80",
+                "1.20.1-47.1.81"
             ]
         }
     },
@@ -1216,6 +1218,74 @@
             "mcversion": "1.20.1",
             "recommended": false,
             "version": "47.1.8"
+        },
+        "1.20.1-47.1.80": {
+            "build": 80,
+            "files": {
+                "changelog": {
+                    "classifier": "changelog",
+                    "extension": "txt"
+                },
+                "forge-1.20.1-47.1.80": {
+                    "classifier": "forge-1.20.1-47.1.80",
+                    "extension": "pom"
+                },
+                "installer": {
+                    "classifier": "installer",
+                    "extension": "jar"
+                },
+                "sources": {
+                    "classifier": "sources",
+                    "extension": "jar"
+                },
+                "universal": {
+                    "classifier": "universal",
+                    "extension": "jar"
+                },
+                "userdev": {
+                    "classifier": "userdev",
+                    "extension": "jar"
+                }
+            },
+            "latest": false,
+            "longversion": "1.20.1-47.1.80",
+            "mcversion": "1.20.1",
+            "recommended": false,
+            "version": "47.1.80"
+        },
+        "1.20.1-47.1.81": {
+            "build": 81,
+            "files": {
+                "changelog": {
+                    "classifier": "changelog",
+                    "extension": "txt"
+                },
+                "forge-1.20.1-47.1.81": {
+                    "classifier": "forge-1.20.1-47.1.81",
+                    "extension": "pom"
+                },
+                "installer": {
+                    "classifier": "installer",
+                    "extension": "jar"
+                },
+                "sources": {
+                    "classifier": "sources",
+                    "extension": "jar"
+                },
+                "universal": {
+                    "classifier": "universal",
+                    "extension": "jar"
+                },
+                "userdev": {
+                    "classifier": "userdev",
+                    "extension": "jar"
+                }
+            },
+            "latest": false,
+            "longversion": "1.20.1-47.1.81",
+            "mcversion": "1.20.1",
+            "recommended": false,
+            "version": "47.1.81"
         },
         "1.20.1-47.1.9": {
             "build": 9,
